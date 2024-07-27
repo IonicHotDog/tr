@@ -1,1 +1,3 @@
+function R(){
 alert("test");
+}
